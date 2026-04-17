@@ -1,2 +1,2 @@
-# TFG-An-lisis-Inestabilidad-Europa
+# TFG-Analisis-Inestabilidad-Europa
 Análisis de difusión espacial de inestabilidad mediante Econometría y Machine Learning
